@@ -44,7 +44,7 @@ A web app that turns a short survey into a step-by-step career roadmap for unive
 
 ## Status
 
-Work in progress. The app works end to end, but the roadmap is currently generated from fixed rules, not AI. Making it smarter is the main thing I am working on next.
+Work in progress. The app works end to end, but the roadmap is currently generated from fixed rules, not AI. Making it smarter is the main thing we are working on next.
 
 ## What works now
 
